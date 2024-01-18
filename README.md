@@ -20,8 +20,12 @@ We took pictures of three distinct electronic components (Humidity sensor (DH11)
 
 # Folder structure
 
+```
 Fine-tuning dataset/
 ├─ THB_dataset/
+│  ├─ Bluetooth/
+│  ├─ Humidity/
+│  ├─ Transistor/
 Lending Machine/
 ├─ LendTronics_Arduino_code.ino
 ├─ LendTronics_Py_code.ipynb
@@ -31,4 +35,4 @@ SOTA_ImageNet.ipynb
 VoltaVision_CIFAR_10.ipynb
 VoltaVision_Electronics.ipynb
 VoltaVision_CIFAR_100.ipynb
-
+```
