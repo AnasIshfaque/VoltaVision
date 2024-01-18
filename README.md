@@ -18,5 +18,17 @@ We took pictures of three distinct electronic components (Humidity sensor (DH11)
 | Humidity Sensor  | 116          |
 | Bluetooth Module | 102          |
 
-# Reproducing Our Results
+# Folder structure
+
+Fine-tuning dataset/
+├─ THB_dataset/
+Lending Machine/
+├─ LendTronics_Arduino_code.ino
+├─ LendTronics_Py_code.ipynb
+├─ database.sql
+pretrained_models/
+SOTA_ImageNet.ipynb
+VoltaVision_CIFAR_10.ipynb
+VoltaVision_Electronics.ipynb
+VoltaVision_CIFAR_100.ipynb
 
