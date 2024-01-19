@@ -36,3 +36,10 @@ VoltaVision_CIFAR_10.ipynb
 VoltaVision_Electronics.ipynb
 VoltaVision_CIFAR_100.ipynb
 ```
+
+# Experiments
+
+- **SOTA_ImageNet.ipynb** contains the code and results for conducting transfer learning using State-Of-The-Art pretrained models
+- **VoltaVision_CIFAR_10.ipynb** contains the code and results for conducting transfer learning using our VoltaVision pretrained on the CIFAR-10 dataset
+- **VoltaVision_Electronics.ipynb** contains the code and results for conducting transfer learning using VoltaVision pretrained on Electronic datasets similar to the fine-tuning dataset
+- **VoltaVision_CIFAR_100.ipynb** contains the code and results for conducting transfer learning using our VoltaVision pretrained on the CIFAR-100 dataset
