@@ -9,6 +9,8 @@ A video showcasing how VoltaVision could be used in a prototype electronic compo
 
 https://github.com/AnasIshfaque/VoltaVision/assets/87610426/8ee3caab-aadf-4fd7-85eb-67362b91daa7
 
+**N.B:** In case the video here does not play, download the **Lending Machine demo.mp4**
+
 # Dataset
 We took pictures of three distinct electronic components (Humidity sensor (DH11), Transistor and Bluetooth module) from different angles on a white background. There are over 100 images for each of the classes, totalling to 328 images. Here is what the distribution looks like:
 
