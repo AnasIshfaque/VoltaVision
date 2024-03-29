@@ -45,3 +45,18 @@ VoltaVision_CIFAR_100.ipynb
 - **VoltaVision_CIFAR_10.ipynb** contains the code and results for conducting transfer learning using our VoltaVision pretrained on the CIFAR-10 dataset
 - **VoltaVision_Electronics.ipynb** contains the code and results for conducting transfer learning using VoltaVision pretrained on Electronic datasets similar to the fine-tuning dataset
 - **VoltaVision_CIFAR_100.ipynb** contains the code and results for conducting transfer learning using our VoltaVision pretrained on the CIFAR-100 dataset
+
+# Citations
+
+To cite VoltaVision in academic papers, please use the following BibTeX entry:
+
+```
+@inproceedings{
+osmani2024voltavision,
+title={VoltaVision: A Transfer Learning model for electronic component classification},
+author={Anas Mohammad Ishfaqul Muktadir Osmani and Taimur Rahman and Salekul Islam},
+booktitle={The Second Tiny Papers Track at ICLR 2024},
+year={2024},
+url={https://openreview.net/forum?id=JHTqFvmVYz}
+}
+```
