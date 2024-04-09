@@ -33,6 +33,11 @@ Lending Machine/
 ├─ LendTronics_Py_code.ipynb
 ├─ database.sql
 pretrained_models/
+├─ best_CIFAR100_checkpoint.model
+├─ best_CIFAR10_checkpoint.model
+├─ best_CPR_dataset_checkpoint.model
+├─ best_ECD_dataset_checkpoint.model
+├─ best_EleComp_dataset_checkpoint.model
 SOTA_ImageNet.ipynb
 VoltaVision_CIFAR_10.ipynb
 VoltaVision_Electronics.ipynb
@@ -45,6 +50,10 @@ VoltaVision_CIFAR_100.ipynb
 - **VoltaVision_CIFAR_10.ipynb** contains the code and results for conducting transfer learning using our VoltaVision pretrained on the CIFAR-10 dataset
 - **VoltaVision_Electronics.ipynb** contains the code and results for conducting transfer learning using VoltaVision pretrained on Electronic datasets similar to the fine-tuning dataset
 - **VoltaVision_CIFAR_100.ipynb** contains the code and results for conducting transfer learning using our VoltaVision pretrained on the CIFAR-100 dataset
+
+# Pretrained models
+
+It contains the saved model parameters for the 5 pretrained VoltaVision model using different training datasets.
 
 # Citations
 
